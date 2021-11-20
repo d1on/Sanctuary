@@ -3,7 +3,7 @@
 ## What is bonding?
 
 **Bonding is the secondary value accrual strategy of Sanctuary.** It allows Sanctuary
-to acquire its own liquidity and other reserve assets such as LUSD by selling SANCT
+to acquire its own liquidity and other reserve assets such as SOL by selling SANCT
 at a discount in exchange for these assets. The protocol quotes the bonder with
 terms such as the bond price, the amount of SANCT tokens entitled to the bonder, and
 the vesting term. The bonder can claim some of the rewards (SANCT tokens) as they
